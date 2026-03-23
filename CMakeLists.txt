@@ -9,3 +9,4 @@ option(TOGGLE_HUGEPAGE "enable hugepage allocation" OFF)
 
 add_subdirectory(src)
 add_subdirectory(test)
+add_subdirectory(test_lookup)
